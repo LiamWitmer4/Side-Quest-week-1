@@ -10,8 +10,10 @@ This project is a static Jenga-themed scene made with p5.js.
 
 | File | Source |
 |------|--------|
-| `assets/images/jenga.png` | Image found using Google Images |
+| `assets/images/jenga.png` [1] | Image found using Google Images |
 
 ## References
 
-p5.js Documentation. Available at: https://p5js.org/reference/
+[1] PNGTree. Wooden Jenga Tower PNG Image. Available at: https://pngtree.com/
+
+[2] p5.js. p5.js Reference. Available at: https://p5js.org/reference/
